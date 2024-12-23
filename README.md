@@ -47,6 +47,6 @@
     </ol>
     <h2>Outcome</h2>
     <p>The <b>Fet's Luck</b> repository demonstrates a solid foundation in frontend development and UI/UX design. With its user-focused approach and engaging interface, it serves as a strong addition to a portfolio, showcasing the ability to create visually appealing and functional designs for web applications.</p>
-</body>
-</html>
+
+<h2>Developed by: Yash Anand</h2>
 
